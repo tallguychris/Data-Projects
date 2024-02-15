@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tallguychris
 - 👀 I’m interested in pickleball, hiking, and hanging out with friends!
-- 🌱 I’m currently learning data analytics using SQL, Tableau, Python, and Power BI.
+- 🌱 I’m currently learning data analytics using Excel, Python, SQL, and Tableau.
 - 💞️ I’m looking to collaborate on new projects related to data analysis.
 - 📫 You can reach me by email: christophersinger96@gmail.com and, my Linkedin: https://www.linkedin.com/in/chrisinger/
 
