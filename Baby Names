@@ -1,3 +1,0 @@
-git add .
-git commit -m "Added text files to new folder"
-git push origin main
